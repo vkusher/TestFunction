@@ -39,4 +39,4 @@ jobs:
           app-name: 'testsecuritydiscount'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76614BBC80114EE1B9EAC0DEE1CA54FF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA155AA12D284B83B173BB3C86C950EE }}
